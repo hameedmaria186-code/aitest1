@@ -6,6 +6,8 @@ import os
 from dotenv import load_dotenv
 import csv
 from datetime import datetime
+import pandas as pd
+
 
 # ---- SETUP GEMINI ----
 load_dotenv()
